@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NedenOOP", "NedenOOP\NedenOOP.csproj", "{004B4543-3644-4B61-B364-D0AA2D75850D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004B4543-3644-4B61-B364-D0AA2D75850D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004B4543-3644-4B61-B364-D0AA2D75850D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004B4543-3644-4B61-B364-D0AA2D75850D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004B4543-3644-4B61-B364-D0AA2D75850D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D814FAC6-9D12-4F80-8DD4-8A549E0C3E06}
+	EndGlobalSection
+EndGlobal
